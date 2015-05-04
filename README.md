@@ -8,6 +8,7 @@ Website that displays a student's profile information by creating a server that 
 
 
 What i learned:
+
 1. Creating an HTTP Server
 2. Reading Files
 3. Handling HTTP Methods
